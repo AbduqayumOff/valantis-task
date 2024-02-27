@@ -1,0 +1,10 @@
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+
+.pagination ul {
+  display: flex;
+  list-style: none;
+}
